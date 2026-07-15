@@ -1,0 +1,1 @@
+export default function ExperiencePage() { return ( <div className='container mx-auto py-24'> <h1 className='text-4xl font-bold capitalize'>experience</h1> <p className='mt-4 text-muted-foreground'>This is the experience page.</p> </div> ); }

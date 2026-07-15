@@ -1,0 +1,1 @@
+export default function AdminCertificatesPage() { return ( <div className='p-8'> <h1 className='text-3xl font-bold capitalize'>Admin - certificates</h1> <p className='mt-4 text-muted-foreground'>Manage certificates here.</p> </div> ); }
